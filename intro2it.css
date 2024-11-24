@@ -1,0 +1,49 @@
+*{
+    background-color: NavajoWhite;
+}
+
+.aboutme{
+    color: red;
+    font-family: 'Verdana';
+    font-size: 60px;
+}
+
+.Myclass{
+    color: white;
+    font-family: 'Verdana';
+}
+
+.class{
+    font-family: 'Comic Sans MS';
+    font-size: 15px;
+    line-height: 0.2; 
+  
+}
+
+.info{
+    color: darkblue;
+    font-family: 'Verdana';
+}
+
+
+
+.movies {
+    font-family: 'Comic Sans MS';
+    font-size: 25px;
+    line-height: 2; 
+}
+
+.photo {
+    display: flex;
+    gap: 20px;
+     
+}
+.image {
+    display: flex;
+
+}
+
+img {
+    width: 200px;
+    height: auto; 
+}
